@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey, I'm Ashwani 👋
 
-<!--
-**ashwani-kv/ashwani-kv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BTech CSE Student
 
-Here are some ideas to get you started:
+I build things to understand how they work — currently focused on:
+- 🌐 Browser extensions & web tech
+- 🐧 Linux (daily driving CachyOS)
+- 🤖 AI & systems programming (long-term goal: build real AI systems)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects currently working on:
+- 🎬 [SyncPlay] — Open-source browser extension to sync video playback across streaming platforms
+
+## Tech
+`JavaScript` `C` `HTML/CSS` `Linux` `Git`
